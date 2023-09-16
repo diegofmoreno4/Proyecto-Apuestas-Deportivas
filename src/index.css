@@ -5,7 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+    background-image: url('https://static.vecteezy.com/system/resources/previews/007/531/418/non_2x/modern-dark-blue-wallpaper-template-design-gradient-color-of-dark-blue-background-used-in-abstract-bg-and-wallpaper-template-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed; 
+
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

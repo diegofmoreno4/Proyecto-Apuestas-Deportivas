@@ -1,0 +1,18 @@
+.datepicker {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .datepicker input[type="date"] {
+    padding: 10px;
+    font-size: 16px;
+  }
+  .datepicker label {
+    font-size: 18px; 
+    font-weight: bold;
+    margin-right: 30px; 
+    margin-top: 10px; 
+    color: #ffffff;
+  }
+  

@@ -1,0 +1,30 @@
+.league-filter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.league-filter {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.league-filter-label {
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.league-filter-select {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+.league-filter-select option {
+  font-size: 16px;
+}
